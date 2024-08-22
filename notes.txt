@@ -1,0 +1,13 @@
+1. setup react tailwind environment using vite
+2. create all pages while using my setup
+3. using react-router-dom my directory routed.
+    import {BrowserRouter as Router, Route, Routes} from 'react-router-dom'
+        <Router>
+            <Navbar/> nav is here because nav showing all pages
+            <Routes>
+             <Route path='/' element={<Home/>}/>
+             
+4. find flowbite for button/bursol/dropdown or etc like bootstrap.....
+
+rgragib69
+7BXUPhzAK8XCVyBF
